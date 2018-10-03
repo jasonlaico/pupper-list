@@ -1,0 +1,16 @@
+.doggo {
+    margin: 1%;
+    position: relative;
+}
+
+.doggo img {
+    width: 200px;
+    height: 200px;
+}
+
+.doggo button {
+    position: absolute;
+    bottom: 3%;
+    right: 1%;
+    cursor: pointer;
+}

@@ -1,0 +1,21 @@
+.dog_top {
+    height: 20vh;
+}
+
+.dog_map {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 100vw;
+}
+
+
+.map1 {
+    background: rgb(46, 46, 46);
+    padding-top: 2%;
+}
+
+.map2{
+ background: grey;
+}
+
