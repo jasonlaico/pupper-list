@@ -1,6 +1,12 @@
 .doggo {
     margin: 1%;
     position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.doggo input {
+    margin-bottom: 5%;
 }
 
 .doggo img {
